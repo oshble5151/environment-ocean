@@ -27,3 +27,6 @@
 같은 한 지점에서 같은 위도선의 다른 점으로 이동 할 경우 다음과 같다.
 
 ![image](https://user-images.githubusercontent.com/73323188/124387255-c04a9900-dd18-11eb-8561-e2aac682e06f.png)
+
+# 각운동량
+
