@@ -18,7 +18,7 @@
 
 # 지형류 생성과정
 
-![image](https://user-images.githubusercontent.com/73323188/124407954-1c94d380-dd80-11eb-9397-3207f20c1a54.png)
+![image](https://user-images.githubusercontent.com/73323188/124408669-a6916c00-dd81-11eb-96d0-e918b745343f.png)
 
 
 **1) 수압이 낮아지는 방향으로 해수이동**
