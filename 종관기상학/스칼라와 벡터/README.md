@@ -55,11 +55,35 @@ e1,e2,e3는 단위벡터로, 단위벡터의 크기는 1이다.
 
 # 벡터의 내적
 
-17분 부터 다시 하기
+
+![image](https://user-images.githubusercontent.com/73323188/126860471-a7cd951a-f259-40e0-9f9d-72b301a06006.png)
+
+절대값은 벡터a의 크기를 의미한다.
+
+내적은 두 크기를 곱한 다음에, 크기가 되었으므로 절대값a,b는 스칼라이다.
+
+# projection 투영 => 
+
+![image](https://user-images.githubusercontent.com/73323188/126860521-f037fa79-297b-4185-83bc-5f8dd3a15478.png)
+
+b 코사인세타는 b를 a축에 그래도 투영  projection  한것이다
+
+벡터 b의 성분중에 벡터 a방향의 성분이 얼마나 존재하는가
+
+결론: 벡터 a,b의 내적은 벡터a의 크기에다가, 벡터b가 얼마나 a방향으로 기여를 하는가로 정의되는 개념이다 ![image](https://user-images.githubusercontent.com/73323188/126860658-25fbed6c-454c-4443-a908-344666c274df.png)
+
+# 벡터의 내적 계산법
+![image](https://user-images.githubusercontent.com/73323188/126860677-b90644c6-6ed7-4e53-8bdf-dcaeda4a7bf3.png)
 
 
+# 벡터의 외적
 
+![image](https://user-images.githubusercontent.com/73323188/126860693-b4b79731-a23f-4a9e-86cb-614a8af6e4f5.png)
 
+## 내적은 스칼라 외적은 벡터이다.
+
+## 외적의 계산 
+![image](https://user-images.githubusercontent.com/73323188/126860744-eadce387-4999-4704-8d56-74fd257caec2.png)
 
 
 
