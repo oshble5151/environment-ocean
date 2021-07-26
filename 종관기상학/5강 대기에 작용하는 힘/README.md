@@ -40,3 +40,5 @@
  ![image](https://user-images.githubusercontent.com/73323188/127000139-f7b0f007-d978-4701-bdc1-5ebd29d3638e.png)
 
  ## 단위면적당의 힘이 기압이다  (제어체적의 각 면이 )
+ 
+ 17분 
