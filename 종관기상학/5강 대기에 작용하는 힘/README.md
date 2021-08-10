@@ -41,4 +41,21 @@
 
  ## 단위면적당의 힘이 기압이다  (제어체적의 각 면이 )
  
- 17분 
+ # 기압
+![image](https://user-images.githubusercontent.com/73323188/128864690-cb19ac63-710e-4670-8899-0a1dc6d51739.png)
+## 위 그림과 같이 지상에서 받는 기압은 1000mb
+## 기압은 고도로 올라갈수록 감소한다.
+
+## 단위 면적당 공기가 면을 수직으로 누르는 힘
+
+# 기압 경도력
+## 기압이 높은곳에서 낮은곳으로 이동하는 것
+
+![image](https://user-images.githubusercontent.com/73323188/128865093-f8ee96f3-3006-49bf-899e-2f6bcdc1771d.png) 
+
+## 제어체적에 F=ma를 적용해야한다.
+![image](https://user-images.githubusercontent.com/73323188/128865438-4566c4fa-e619-4335-83a7-87f6e13b9f27.png)
+왼쪽의 면적(델타y*델타z)곱하기 압력(p)에서, 오른쪽도 동일하게 계산해서 빼준 식
+
+
+
