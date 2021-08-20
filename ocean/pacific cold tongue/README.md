@@ -7,4 +7,4 @@
 출처(https://faculty.washington.edu/kessler/sec/cold-tongue-secn.html)
 ## 적도 용승에 의해서 발생한다.
 
-## 적도의 동쪽에 부는 바람은 
+## 적도의 동쪽에 부는 무역풍은 적도의 양쪽에 있는 물을 극지쪽으로 흐르게 한다.
