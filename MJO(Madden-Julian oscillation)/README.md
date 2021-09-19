@@ -29,4 +29,4 @@ __위상 6~7:__ 서태평양
 __2) 위상에 따른 이동__
 ![image](https://user-images.githubusercontent.com/73323188/123104086-98824800-d471-11eb-8587-bdf565ccf9ec.png)
 
- 
+  
