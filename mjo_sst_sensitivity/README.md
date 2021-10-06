@@ -12,3 +12,8 @@
 ## 1) 결합 시뮬레이션의 월평균 SST로 강제된 결합되지 않은 시뮬레이션 => 결합 모델의 SSt 평균상태와  SST-low-frequency 변동성을 포함하지만 sub-monthly SST variability는 배제한다.
 
 ## 2) 결합 시뮬레이션의 데일리 평균 SST에 강제된 결합 되지 않은 시뮬레이션 => sub-monthly SST variability 포함하지만 ,  precipitation in high-frequency SST forced simulations은 가장 따뜻한 SST anomaly와 일치하는 경향이 있기 때문에 SST가 hallmark quadrature SST-precipitation relationship을 잘못 제거하는 원하지 않는 결과를 가진다
+
+
+# DeMott et al은 4가지 다른 모델과 함께 첫번째 어프로치를 사용했고 커플 모델에서의 발전된 MJO 시뮬레이션은 발견했다
+
+# 
