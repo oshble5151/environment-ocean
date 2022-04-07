@@ -11,5 +11,9 @@
 
 ![image](https://user-images.githubusercontent.com/73323188/151912499-518d1717-e706-4d5a-ba48-ccc1633ab0c0.png)
 
+# 엘니뇨 3.4 index 
+## NINO3.4 is the average sea surface temperature anomaly in the region bounded by 5°N to 5°S, from 170°W to 120°W.
+## 3.4 지역의 해수면 공간평균값
+
 
 
